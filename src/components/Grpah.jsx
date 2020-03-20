@@ -9,12 +9,22 @@ const axios = require('axios');
 
 
 const options = [
+    
+    { value: 'Au', label: 'Australia' },
+    { value: 'CA', label: 'Canada' },
+    { value: 'CN', label: 'China' },
+    { value: 'DK', label: 'Denmark' },
+    { value: 'FR', label: 'France' },
+    { value: 'IN', label: 'India' },
+    { value: 'IT', label: 'Italy' },
+    { value: 'JP', label: 'Japan' },
+    { value: 'MY', label: 'Malaysia' },
+    { value: 'PK', label: 'Pakistan' },
+    { value: 'SG', label: 'Singapore' },
+    { value: 'ES', label: 'Spain' },
     { value: 'LK', label: 'Srilanka' },
     { value: 'US', label: 'USA' },
-    { value: 'CN', label: 'China' },
-    { value: 'IT', label: 'Italy' },
-    { value: 'UK', label: 'United Kingdom' },
-    { value: 'IN', label: 'India' },
+    { value: 'GB', label: 'United Kingdom' },
     //https://thevirustracker.com/api?ref=producthunt#indexpage
 ];
 const defaultOption = options[0];
