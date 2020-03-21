@@ -1,3 +1,5 @@
+See the live action in https://tharsanan1.github.io/CoronaVisualization/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
